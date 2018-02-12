@@ -1,0 +1,26 @@
+# Byte-compiled/optimized/DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.Python
+build/
+dist/
+downloads/
+wheels/
+*.egg-info/
+*.egg
+MANIFEST
+
+.env
+.venv
+env/
+venv/
+
+
+logs
+*.log
+npm-debug.log*
+
+node_modules/
+.npm
